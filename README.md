@@ -1,12 +1,8 @@
-Here is an English version of the README.md for the polls application:
-
-```markdown
 # Polls Application
 
 This project is a simple implementation of a polls application based on the [Django tutorial](https://docs.djangoproject.com/en/5.0/intro/tutorial01/).
 
 ## Overview
-
 The polls application allows users to:
 - Create poll questions.
 - Add answer choices for each question.
@@ -32,8 +28,8 @@ cd polls-app
 ### Create and Activate a Virtual Environment
 
 ```bash
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+python -m venv .venv
+source .venv/bin/activate  # On Windows, use `.venv\Scripts\activate`
 ```
 
 ### Install Dependencies
@@ -66,7 +62,7 @@ Access the application in your browser at `http://127.0.0.1:8000/`.
 
 ```plaintext
 polls-app/
-├── mysite/                 # Main project directory
+├── django_project/         # Main project directory
 │   ├── __init__.py
 │   ├── settings.py         # Django settings
 │   ├── urls.py             # Project URLs
