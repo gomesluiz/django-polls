@@ -1,4 +1,5 @@
 # Polls Application
+![version](https://img.shields.io/badge/version-v1.0.0-blue)
 
 This project is a simple implementation of a polls application based on the [Django tutorial](https://docs.djangoproject.com/en/5.0/intro/tutorial01/).
 
