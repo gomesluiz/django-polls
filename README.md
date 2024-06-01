@@ -106,6 +106,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 For more information about Django, visit the [official documentation](https://docs.djangoproject.com/en/5.0/).
 ```
-
-This README.md provides a clear overview of the project, installation instructions, project structure details, and contribution guidelines.
-
