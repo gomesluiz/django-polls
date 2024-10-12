@@ -22,8 +22,8 @@ Follow the steps below to set up and run the application locally.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/user/polls-app.git
-cd polls-app
+git clone https://github.com/user/django-polls.git
+cd django-polls
 ```
 
 ### Create and Activate a Virtual Environment
